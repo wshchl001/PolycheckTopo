@@ -1,0 +1,23 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>PolycheckTopo</Name>
+  <AddInID>{4ab0a9fe-a007-4eab-a82f-fdabbac5b5aa}</AddInID>
+  <Description>拓扑检查</Description>
+  <Version>1.0</Version>
+  <Image>Images\PolycheckTopo.png</Image>
+  <Author>uuiitwp</Author>
+  <Company>ZCYY</Company>
+  <Date>2018/4/25</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR4.5" library="PolycheckTopo.dll" namespace="PolycheckTopo">
+    <ArcMap>
+      <Commands>
+        <Button id="ZCYY_PolycheckTopo_Button1" class="Button1" message="检查地块的重叠于缝隙,亦可添加悬挂点,将拓扑线错误输出" caption="面状要素拓扑" tip="面状要素拓扑" category="农经权拓扑" image="Images\Button1.png" />
+        <Button id="ZCYY_PolycheckTopo_Button2" class="Button2" message="检查地块与界址线之间的拓扑关系" caption="面状要素与线状要素拓扑" tip="面状要素与线状要素拓扑" category="农经权拓扑" image="Images\Button2.png" />
+        <Button id="ZCYY_PolycheckTopo_Button3" class="Button3" message="检查地块与界址点之间的拓扑关系" caption="面状要素与点状要素拓扑" tip="面状要素与点状要素拓扑" category="农经权拓扑" image="Images\Button3.png" />
+        <Button id="ZCYY_PolycheckTopo_Button4" class="Button4" message="检查界址线与界址点之间的拓扑关系" caption="线状要素与点状要素拓扑" tip="线状要素与点状要素拓扑" category="农经权拓扑" image="Images\Button4.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

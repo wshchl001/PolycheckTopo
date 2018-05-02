@@ -1,0 +1,10 @@
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\bin\Debug\PolycheckTopo.dll
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\bin\Debug\PolycheckTopo.pdb
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.Form1.resources
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.csproj.GenerateResource.Cache
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.dll
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.pdb
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.checkAreaLineTopo.Form2.resources
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.csprojResolveAssemblyReference.cache
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\obj\Debug\PolycheckTopo.checkAreaPointTopo.Form3.resources
+c:\users\uuiitwp\documents\visual studio 2012\Projects\PolycheckTopo\PolycheckTopo\bin\Debug\PolycheckTopo.esriAddIn
